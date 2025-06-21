@@ -4,7 +4,7 @@ A collection of Excel-based data analysis and dashboard projects demonstrating b
 
 ---
 
-## 1. 🛒 [E-Commerce Sales Dashboard](/E-commerce%Sales%Dashboard.xlsx)
+## 1. 🛒 [E-Commerce Sales Dashboard](/E-commerce%Sales%Dashboard)
 
 **Description:**  
 An interactive dashboard analyzing customer behavior, order trends, product profitability, and payment method distribution using a Kaggle e-commerce dataset.
