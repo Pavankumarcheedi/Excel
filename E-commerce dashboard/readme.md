@@ -80,5 +80,5 @@ This dataset was sourced from Kaggle:
 For any queries or suggestions, feel free to reach out:  
 **Pavan Kumar**  
 📍 Vizag, India  
-📫 [LinkedIn](https://www.linkedin.com/) *(or your portfolio link)*
+
 
